@@ -6,7 +6,7 @@
 
 
 html {
-    background-color: lightgray;
+    background-color: #8d99ae;
     font-family: 'Nunito', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -14,7 +14,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: #ef233c;
 }
 
 h1 {
@@ -41,13 +41,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#2B2D42;
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: #EDF2F4;
+    background-color: #2B2D42;
     text-decoration: none;
 }
 
