@@ -1,5 +1,7 @@
 # portal
 
-An example portal page
+This is my first portal page
 
-Please feel free to use the HMTL/CSS and JS in this repo as you wish!
+About me! 
+
+My name is Rachel Boursia and I currently student. 
